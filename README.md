@@ -1,5 +1,5 @@
 # Livro: Automatize tarefas maçantes com Python https://automatetheboringstuff.com/
-Treinamento baseado no livro e videos do Al Sweigart na Udemy, Youtube e link acima;
+Treinamento baseado no livro e videos do Al Sweigart na Udemy, Youtube (https://goo.gl/YkKtWh) e link acima;
 Ele usa bastante este site http://pythontutor.com/ para ir testando linha a linha dos códigos que ensina. bem útil.
 
 ## Aula 2: basicamente coloca os tipos de variaveis e uso do shell interativo
