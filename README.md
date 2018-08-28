@@ -1,5 +1,8 @@
+
+![Livro: Automatize tarefas maçantes com Python](https://automatetheboringstuff.com/images/automate_cover_medium.png)
+
 # Livro: Automatize tarefas maçantes com Python <https://automatetheboringstuff.com/>
-[Treinamento baseado no livro e videos do Al Sweigart na Udemy, Youtube](https://goo.gl/YkKtWh) e link acima;
+Treinamento baseado no livro e videos do Al Sweigart na Udemy, Youtube <https://goo.gl/YkKtWh> e link acima;
 Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a linha dos códigos que ensina. bem útil.
 >*Viva o open source!*
 
