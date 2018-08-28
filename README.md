@@ -22,7 +22,7 @@ Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a li
 ## Aula 6: While Loops
 - Ensina usar o while, fala sobre loop infinito e como parar o loop no idle e também no código demonstrando usos para break e continue;
 
-##Aula 7: For Loops
+## Aula 7: For Loops
 - Mostra a questão de gauss que somou todos os numeros até 100 (1+2+3+4...)
 - Mostra como passar até três argumentos na montagem do for loop
 
