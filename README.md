@@ -14,7 +14,7 @@ Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a li
 ## Aula 4: Lógica básica
 - Começa a lógica de programação abre com explicação de flowchart (controle de fluxo) e operadores booleanos no shell (Idle);
 
-## Aula 5: Lógica basica em Scripts
+## Aula 5: Lógica básica em Scripts
 - Começa a explicação de IF, ELSE, usando scripts;
 - Explicação do ELIF, bem importante questão do break da continuidade de execução;
 - Explicação do IF em string como se fosse booleanos;
@@ -30,7 +30,8 @@ Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a li
 - print, input, len, randon, etc fala sobre import de módulos (inclusive vários ao mesmo tempo...)
 - começando a usar o PIP para instalar o pyperclip, mesmo no win10 pediu nivel de admin, pois o python foi instalado em pasta de arquivos de programas (acho que por default); Falou das libs default e das feitas por terceiros que podem ser importadas.
 
-## Aula 9: Como escrever funções personalizadas.
+## Aula 9: Como escrever funções personalizadas
+
 
 
 
