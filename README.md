@@ -15,6 +15,8 @@ Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a li
 
 ## Aula 4 [Video]: Lógica básica
 - Começa a lógica de programação abre com explicação de flowchart (controle de fluxo) e operadores booleanos no shell (Idle);
+- no livro são colocados os exemplos para cada tipo de validação (==; !=; <; >; <=; >=)
+- 
 
 ## Aula 5 [Video]: Lógica básica em Scripts
 - Começa a explicação de IF, ELSE, usando scripts;
