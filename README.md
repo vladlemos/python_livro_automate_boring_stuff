@@ -35,7 +35,10 @@ Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a li
 - começando a usar o PIP para instalar o pyperclip, mesmo no win10 pediu nivel de admin, pois o python foi instalado em pasta de arquivos de programas (acho que por default); Falou das libs default e das feitas por terceiros que podem ser importadas.
 
 ## Aula 9 [Video]: Como escrever funções personalizadas
+- aqui se mostra a montagem de funções com a palavra reservada def, com e sem passar parâmetros na função
 
+## Aula 10 [Video]: Variáveis locais e globais
+- Aqui na aula ele demonstra o uso de variáveis dentro e fora do escopo de funções, demonstra como sobrescrever uma global dentro da função; 
 
 
 
