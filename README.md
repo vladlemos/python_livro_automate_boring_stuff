@@ -39,7 +39,10 @@ Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a li
 
 ## Aula 10 [Video]: Variáveis locais e globais
 - Aqui na aula ele demonstra o uso de variáveis dentro e fora do escopo de funções, demonstra como sobrescrever uma global dentro da função; 
-- No livro está nas páginas 98 até 103 e possui exemplos bem detalhados
+- [Livro] No livro está nas páginas 98 até 103 e possui exemplos bem detalhados, pra essa aula ler o livro foi mais de boa vez que o video é meio rápido nos exemplos
+
+## Aula 11 [Video]: Tratamento de erros
+- Ensinou a usar o try e except para captura e tratamento de erros, o erro pode ser genérico ou especifico, quando mapeado dá pra pegar no prompt e tratar;
 
 
 
