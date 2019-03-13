@@ -5,6 +5,7 @@
 Treinamento baseado no livro e videos do Al Sweigart na Udemy, Youtube <https://goo.gl/YkKtWh> e link acima;
 Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a linha dos códigos que ensina. bem útil.
 >*Viva o open source!*
+- script que aprendi pelo youtube com Selenium (faceLogin.py), ensina a logar num site usando selenium, bem legal.
 
 [Livro] - Página 27 do livro impresso pela novatec coloca o exemplo de um acesso após o Python ler um arquivo txt, bem na introdução já demonstra uma funcionalidade bem legal.
 
@@ -43,6 +44,8 @@ Ele usa bastante este site <http://pythontutor.com/> para ir testando linha a li
 
 ## Aula 11 [Video]: Tratamento de erros
 - Ensinou a usar o try e except para captura e tratamento de erros, o erro pode ser genérico ou especifico, quando mapeado dá pra pegar no prompt e tratar;
+
+
 
 
 
